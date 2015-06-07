@@ -1,2 +1,3 @@
 # assignment06
-Assignment #6
+
+All the "Try It Out" sections in Chapter 6.
